@@ -1,6 +1,6 @@
 name: Lint JSON Schema with jv
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   lint:
@@ -9,11 +9,13 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Set up Go
-      uses: actions/setup-go@v5
-      with:
-        go-version: 'stable'
+    - name: Install linter
+      run: |
+        curl -sL https://github.com/santhosh-tekuri/jsonschema/releases/download/v6.0.1/jv-v6.0.1-linux-amd64.tar.gz > jv.tar.gz
+        mkdir -p $HOME/.local/bin
+        tar zxf jv.tar.gz -C $HOME/.local/bin
+        echo $HOME/.local/bin >> $GITHUB_PATH
 
     - name: Run JSON Schema lint
       run: |
-        make lint
+        jv corporation/schema.json corporation/*/*.json
