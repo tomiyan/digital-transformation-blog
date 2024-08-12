@@ -1,0 +1,33 @@
+{
+  "id": "6012401017913",
+  "name": "株式会社クラシコム",
+  "securities_code": "7110",
+  "urls": [
+    {
+      "type": "corporate",
+      "url": "https://kurashi.com/"
+    },
+    {
+      "type": "service",
+      "url": "https://hokuohkurashi.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/kurashicom_tech",
+      "feed": "https://note.com/kurashicom_tech/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://qiita.com/organizations/kurashicom",
+      "feed": "https://qiita.com/organizations/kurashicom/activities.atom"
+    },
+    {
+      "type": "job",
+      "url": "https://www.wantedly.com/companies/kurashicom"
+    },
+    {
+      "type": "ir",
+      "url": "https://kurashi.com/ir"
+    }
+  ]
+}
