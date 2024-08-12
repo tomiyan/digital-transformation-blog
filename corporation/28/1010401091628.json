@@ -1,0 +1,64 @@
+{
+  "id": "1010401091628",
+  "name": "株式会社LIFULL",
+  "securities_code": "2120",
+  "urls":[
+    {
+      "type": "corporate",
+      "url": "https://lifull.com/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.homes.co.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://lifull-fam.com/"
+    },
+    {
+      "type": "service",
+      "url": "https://livinganywherecommons.com/"
+    },
+    {
+      "type": "service",
+      "url": "https://hub.lifull.com/"
+    },
+    {
+      "type": "service",
+      "url": "https://home.dleague.co.jp/teams/tl6e/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.lifull.blog/",
+      "feed": "https://www.lifull.blog/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://qiita.com/organizations/lifull",
+      "feed": "https://qiita.com/organizations/lifull/activities.atom"
+    },
+    {
+      "type": "blog",
+      "url": "https://corp.lifull.com/",
+      "feed": "https://corp.lifull.com/rss"
+    },
+    {
+      "type": "slide",
+      "url": "https://www.docswell.com/user/LIFULL",
+      "feed": "https://www.docswell.com/user/LIFULL/feed"
+    },
+    {
+      "type": "event",
+      "url": "https://lifull.connpass.com/"
+    },
+    {
+      "type": "job",
+      "url": "https://recruit.lifull.com/"
+    },
+    {
+      "type": "ir",
+      "url": "https://ir.lifull.com/",
+      "feed": "https://ir.lifull.com/feed/"
+    }
+  ]
+}
