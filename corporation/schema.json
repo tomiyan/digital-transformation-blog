@@ -1,7 +1,7 @@
 {
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name", "urls"],
+  "required": ["id", "name", "webs"],
   "properties": {
     "id": {
       "type": "string",
@@ -14,7 +14,7 @@
       "type": "string",
       "pattern": "^[0-9][0-9ACDFGHJ-NPR-UWXY][0-9][0-9ACDFGHJ-NPR-UWXY]$"
     },
-    "urls": {
+    "webs": {
       "type": "array",
       "uniqueItems": true,
       "items": {
