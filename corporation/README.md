@@ -14,8 +14,8 @@
   "name": "株式会社テスト",
   // 証券コード オプション https://www.jpx.co.jp/sicc/code-pr/
   "securities_code": "0123",
-  // URL 必須
-  "urls": [
+  // Web 必須
+  "webs": [
     {
       // URLの種類 必須
       // corporate: コーポレートサイト
