@@ -1,0 +1,12 @@
+
+{
+  "id": "publickey1.jp",
+  "name": "Publickey",
+  "webs": [
+    {
+      "type": "service",
+      "url": "https://www.publickey1.jp/",
+      "feed": "https://www.publickey1.jp/atom.xml"
+    }
+  ]
+}

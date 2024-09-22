@@ -6,6 +6,7 @@ GOBIN ?= $(shell go env GOPATH)/bin
 .PHONY: lint
 lint: $(GOBIN)/jv
 	@jv corporation/schema.json corporation/*/*.json
+	@jv other/schema.json other/*/*.json
 
 # 以下、上記のターゲットにて使用するツールが導入されていなかった場合に`go install`で導入を行う
 $(GOBIN)/jv:

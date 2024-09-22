@@ -1,0 +1,16 @@
+
+{
+  "id": "cockroachlabs.com",
+  "name": "Cockroach Labs",
+  "webs": [
+    {
+      "type": "service",
+      "url": "https://www.cockroachlabs.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.cockroachlabs.com/blog/",
+      "feed": "https://www.cockroachlabs.com/rss.xml"
+    }
+  ]
+}
