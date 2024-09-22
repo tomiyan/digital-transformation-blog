@@ -1,0 +1,16 @@
+
+{
+  "id": "astro.build",
+  "name": "Astro",
+  "webs": [
+    {
+      "type": "service",
+      "url": "https://astro.build/"
+    },
+    {
+      "type": "blog",
+      "url": "https://astro.build/blog/",
+      "feed": "https://astro.build/rss.xml"
+    }
+  ]
+}

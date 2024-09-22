@@ -16,6 +16,10 @@ jobs:
         tar zxf jv.tar.gz -C $HOME/.local/bin
         echo $HOME/.local/bin >> $GITHUB_PATH
 
-    - name: Run JSON Schema lint
+    - name: Run JSON Schema lint for corporation
       run: |
         jv corporation/schema.json corporation/*/*.json
+
+    - name: Run JSON Schema lint for other
+      run: |
+        jv other/schema.json other/*/*.json

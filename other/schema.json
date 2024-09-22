@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "webs"],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "webs": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "type"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["corporate", "service", "blog", "slide", "podcast", "job", "event", "ir"]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "feed": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    }
+  }
+}
