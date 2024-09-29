@@ -1,0 +1,24 @@
+{
+  "id": "6040001003380",
+  "name": "イオン株式会社",
+  "securities_code": "8267",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.aeon.info/"
+    },
+    {
+      "type": "service",
+      "url": "https://aeonshop.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://zenn.dev/p/aeonpeople",
+      "feed": "https://zenn.dev/p/aeonpeople/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://engineer-recuruiting.aeon.info/aeon-tech-hub"
+    }
+  ]
+}
