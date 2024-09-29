@@ -19,6 +19,16 @@
     {
       "type": "blog",
       "url": "https://engineer-recuruiting.aeon.info/aeon-tech-hub"
+    },
+    {
+      "type": "slide",
+      "url": "https://speakerdeck.com/aeonpeople",
+      "feed": "https://speakerdeck.com/aeonpeople.rss"
+    },
+    {
+      "type": "event",
+      "url": "https://aeon.connpass.com/",
+      "feed": "https://aeon.connpass.com/ja.atom"
     }
   ]
 }
