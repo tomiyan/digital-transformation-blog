@@ -1,0 +1,15 @@
+{
+  "id": "4010601063548",
+  "name": "SCSKセキュリティ株式会社",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://scsksecurity.co.jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.scsksecurity.co.jp/",
+      "feed": "https://blog.scsksecurity.co.jp/feed"
+    }
+  ]
+}
