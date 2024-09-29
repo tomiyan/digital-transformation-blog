@@ -1,0 +1,15 @@
+{
+  "id": "7011101004246",
+  "name": "株式会社オライリー・ジャパン",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.oreilly.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.oreilly.co.jp/blog/",
+      "feed": "https://www.oreilly.co.jp/blog/feeds/all.atom.xml"
+    }
+  ]
+}

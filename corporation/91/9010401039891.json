@@ -1,0 +1,20 @@
+{
+  "id": "9010401039891",
+  "name": "株式会社いい生活",
+  "securities_code": "3796",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.e-seikatsu.info/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.es-service.net/"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.e-seikatsu.info/",
+      "feed": "https://note.e-seikatsu.info/rss"
+    }
+  ]
+}

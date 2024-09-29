@@ -1,0 +1,20 @@
+{
+  "id": "1010501043792",
+  "name": "株式会社IVRy",
+  "webs":[
+    {
+      "type": "corporate",
+      "url": "https://ivry.jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://zenn.dev/p/ivry",
+      "feed": "https://zenn.dev/p/ivry/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/ivry/",
+      "feed": "https://note.com/ivry/rss"
+    }
+  ]
+}

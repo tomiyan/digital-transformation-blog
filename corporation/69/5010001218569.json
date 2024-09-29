@@ -1,0 +1,20 @@
+{
+  "id": "5010001218569",
+  "name": "株式会社インダストリー・ワン",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.industry-one.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://techblog.industry-one.com/",
+      "feed": "https://techblog.industry-one.com/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/io_des/m/mf22d2fb65653",
+      "feed": "https://note.com/io_des/m/mf22d2fb65653/rss"
+    }
+  ]
+}

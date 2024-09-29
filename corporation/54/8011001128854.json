@@ -1,0 +1,15 @@
+{
+  "id": "8011001128854",
+  "name": "株式会社アンチパターン",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://anti-pattern.co.jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://tech.anti-pattern.co.jp/",
+      "feed": "https://tech.anti-pattern.co.jp/rss"
+    }
+  ]
+}

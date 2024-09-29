@@ -1,0 +1,20 @@
+{
+  "id": "6010901040278",
+  "name": "株式会社overflow",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://overflow.co.jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/overflow_inc",
+      "feed": "https://note.com/overflow_inc/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://zenn.dev/p/overflow_offers",
+      "feed": "https://zenn.dev/p/overflow_offers/feed"
+    }
+  ]
+}

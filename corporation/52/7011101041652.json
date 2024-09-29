@@ -1,0 +1,31 @@
+{
+  "id": "7011101041652",
+  "name": "株式会社アドウェイズ",
+  "securities_code": "2489",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.adways.net/"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/adways/",
+      "feed": "https://note.com/adways/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.engineer.adways.net/",
+      "feed": "https://blog.engineer.adways.net/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/adways_creative/",
+      "feed": "https://note.com/adways_creative/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://story.unicorn.inc/",
+      "feed": "https://story.unicorn.inc/rss"
+    }
+  ]
+}

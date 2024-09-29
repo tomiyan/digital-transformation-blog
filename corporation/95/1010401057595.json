@@ -1,0 +1,50 @@
+{
+  "id": "1010401057595",
+  "name": "株式会社アイスタイル",
+  "securities_code": "3660",
+  "webs":[
+    {
+      "type": "corporate",
+      "url": "https://www.istyle.co.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.cosme.net/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.istyle.co.jp/",
+      "feed": "https://blog.istyle.co.jp/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://qiita.com/organizations/istyle",
+      "feed": "https://qiita.com/organizations/istyle/activities.atom"
+    },
+    {
+      "type": "blog",
+      "url": "https://zenn.dev/p/istyle",
+      "feed": "https://zenn.dev/p/istyle/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/istyle_blog",
+      "feed": "https://note.com/istyle_blog/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://techblog.istyle.co.jp/",
+      "feed": "https://techblog.istyle.co.jp/feed"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/istyle_design/",
+      "feed": "https://note.com/istyle_design/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/istyle_tc/",
+      "feed": "https://note.com/istyle_tc/rss"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1180001132773",
+  "name": "株式会社Acompany",
+  "webs":[
+    {
+      "type": "corporate",
+      "url": "https://acompany.tech/"
+    },
+    {
+      "type": "blog",
+      "url": "https://acompany.tech/privacytechlab"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/acompany_note",
+      "feed": "https://note.com/acompany_note/rss"
+    }
+  ]
+}

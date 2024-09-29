@@ -1,0 +1,15 @@
+{
+  "id": "7011001050398",
+  "name": "株式会社インサイトテクノロジー",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.insight-tec.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.insight-tec.com/insight-blog/",
+      "feed": "https://www.insight-tec.com/insight-blog/feed/"
+    }
+  ]
+}

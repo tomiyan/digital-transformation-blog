@@ -1,0 +1,24 @@
+{
+  "id": "6120001059605",
+  "name": "株式会社朝日新聞社",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.asahi.com/corporate/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.asahi.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/asahi_ictrad/",
+      "feed": "https://note.com/asahi_ictrad/rss"
+    },
+    {
+      "type": "blog",
+      "url": "https://techlife.asahi.com/",
+      "feed": "https://techlife.asahi.com/rss"
+    }
+  ]
+}

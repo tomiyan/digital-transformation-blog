@@ -1,0 +1,15 @@
+{
+  "id": "7010001202307",
+  "name": "株式会社Insight Edge",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://insightedge.jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://techblog.insightedge.jp/",
+      "feed": "https://techblog.insightedge.jp/feed"
+    }
+  ]
+}
