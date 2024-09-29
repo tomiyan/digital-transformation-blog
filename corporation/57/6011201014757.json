@@ -1,0 +1,42 @@
+{
+  "id": "6011201014757",
+  "name": "株式会社カオナビ",
+  "securities_code": "4435",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://corp.kaonavi.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.kaonavi.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.roummate.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.yojitsutics.jp/"
+    },
+    {
+      "type": "service",
+      "url": "https://www.kaonavi.jp/nextfund/"
+    },
+    {
+      "type": "blog",
+      "url": "https://qiita.com/organizations/kaonavi",
+      "feed": "https://qiita.com/organizations/kaonavi/activities.atom"
+    },
+    {
+      "type": "blog",
+      "url": "https://note.com/kaonavi_devs/",
+      "feed": "https://note.com/kaonavi_devs/rss"
+    },
+    {
+      "type": "event",
+      "url": "https://kaonavi.connpass.com/",
+      "feed": "https://kaonavi.connpass.com/ja.atom"
+    }
+  ]
+}
