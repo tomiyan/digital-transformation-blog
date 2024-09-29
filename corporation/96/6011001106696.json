@@ -1,0 +1,15 @@
+{
+  "id": "6011001106696",
+  "name": "アマゾンウェブサービスジャパン合同会社",
+  "webs": [
+    {
+      "type": "service",
+      "url": "https://aws.amazon.com/jp/"
+    },
+    {
+      "type": "blog",
+      "url": "https://aws.amazon.com/jp/blogs/news/",
+      "feed": "https://aws.amazon.com/jp/blogs/news/feed/"
+    }
+  ]
+}
