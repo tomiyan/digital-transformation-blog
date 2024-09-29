@@ -1,0 +1,15 @@
+{
+  "id": "6010001207629",
+  "name": "Okta Japan株式会社",
+  "webs": [
+    {
+      "type": "corporate",
+      "url": "https://www.okta.com/jp/company/okta-japan/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.okta.com/jp/blog/",
+      "feed": "https://www.okta.com/jp/blog/feed"
+    }
+  ]
+}
